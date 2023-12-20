@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "913147090885",
+    "project_id": "authentication-402914",
+    "storage_bucket": "authentication-402914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913147090885:android:e8a8f192d4d78df4819dac",
+        "android_client_info": {
+          "package_name": "com.arifin.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913147090885-ikedjumhgs29ook2qq31njq1h0qonr4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arifin.capstone",
+            "certificate_hash": "5ad93fdd3fe1159a32eb0188858e28df34f056de"
+          }
+        },
+        {
+          "client_id": "913147090885-1kfto0m8cjvtn159oosdk1vkpoccu16p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNt9MDl0Te4np5D9q_J6TXBdLLsMcUYBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913147090885-1kfto0m8cjvtn159oosdk1vkpoccu16p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "913147090885-kour2m8ccb7a5tos00kusum5ok0n8mba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iphint.BacaYuks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
